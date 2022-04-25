@@ -24,12 +24,12 @@
 			<plugin>
 				<groupId>org.mule.tools.maven</groupId>
 				<artifactId>mule-maven-plugin</artifactId>
-				<version>3.3.5</version>
+				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<muleVersion>4.2.2</muleVersion>
+						<muleVersion>4.4.0</muleVersion>
 						<username>yuichmaeda</username>
 						<password>Dtc2019@231966</password>
 						<applicationName>mulesoft-cicd-sample</applicationName>
