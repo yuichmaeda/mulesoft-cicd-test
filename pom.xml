@@ -38,6 +38,7 @@
 							<http.port>8081</http.port>
 						</properties>
 						<workerType>MICRO</workerType>
+						<objectStoreV2>true</objectStoreV2>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
