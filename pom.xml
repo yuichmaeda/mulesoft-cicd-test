@@ -32,7 +32,7 @@
 						<muleVersion>4.2.2</muleVersion>
 						<username>yuichmaeda</username>
 						<password>Dtc2019@231966</password>
-						<applicationName>hello-cicd</applicationName>
+						<applicationName>mulesoft-cicd-sample</applicationName>
 						<environment>Sandbox</environment>
 						<properties>
 							<http.port>8081</http.port>
